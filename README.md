@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/vararuunn/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0371-sum-of-two-integers](https://github.com/vararuunn/LeetCode-Solutions/tree/master/0371-sum-of-two-integers) |
+| [0412-fizz-buzz](https://github.com/vararuunn/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/vararuunn/LeetCode-Solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Bit Manipulation
 |  |
@@ -46,8 +47,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/vararuunn/LeetCode-Solutions/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/vararuunn/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 ## Number Theory
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/vararuunn/LeetCode-Solutions/tree/master/0258-add-digits) |
+## String
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/vararuunn/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
