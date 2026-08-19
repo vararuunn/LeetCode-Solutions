@@ -86,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/vararuunn/LeetCode-Solutions/tree/master/0069-sqrtx) |
+## Concurrency
+|  |
+| ------- |
+| [1195-fizz-buzz-multithreaded](https://github.com/vararuunn/LeetCode-Solutions/tree/master/1195-fizz-buzz-multithreaded) |
 <!---LeetCode Topics End-->
