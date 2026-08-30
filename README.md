@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/vararuunn/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/vararuunn/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/vararuunn/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0812-largest-triangle-area](https://github.com/vararuunn/LeetCode-Solutions/tree/master/0812-largest-triangle-area) |
 | [0875-koko-eating-bananas](https://github.com/vararuunn/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/vararuunn/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/vararuunn/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/vararuunn/LeetCode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/vararuunn/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/vararuunn/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
+| [0812-largest-triangle-area](https://github.com/vararuunn/LeetCode-Solutions/tree/master/0812-largest-triangle-area) |
 | [0877-stone-game](https://github.com/vararuunn/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/vararuunn/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/vararuunn/LeetCode-Solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -144,4 +146,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/vararuunn/LeetCode-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
+## Geometry
+|  |
+| ------- |
+| [0812-largest-triangle-area](https://github.com/vararuunn/LeetCode-Solutions/tree/master/0812-largest-triangle-area) |
+## Polygons
+|  |
+| ------- |
+| [0812-largest-triangle-area](https://github.com/vararuunn/LeetCode-Solutions/tree/master/0812-largest-triangle-area) |
 <!---LeetCode Topics End-->
