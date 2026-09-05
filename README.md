@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/vararuunn/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/vararuunn/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/vararuunn/LeetCode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2396-strictly-palindromic-number](https://github.com/vararuunn/LeetCode-Solutions/tree/master/2396-strictly-palindromic-number) |
 ## Sorting
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-largest-triangle-area](https://github.com/vararuunn/LeetCode-Solutions/tree/master/0812-largest-triangle-area) |
 | [0877-stone-game](https://github.com/vararuunn/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/vararuunn/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [2396-strictly-palindromic-number](https://github.com/vararuunn/LeetCode-Solutions/tree/master/2396-strictly-palindromic-number) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/vararuunn/LeetCode-Solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3875-construct-uniform-parity-array-i](https://github.com/vararuunn/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Bit Manipulation
@@ -176,4 +178,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/vararuunn/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vararuunn/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/vararuunn/LeetCode-Solutions/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
