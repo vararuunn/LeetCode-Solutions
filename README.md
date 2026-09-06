@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/vararuunn/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/vararuunn/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/vararuunn/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0319-bulb-switcher](https://github.com/vararuunn/LeetCode-Solutions/tree/master/0319-bulb-switcher) |
 | [0371-sum-of-two-integers](https://github.com/vararuunn/LeetCode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/vararuunn/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/vararuunn/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
@@ -181,5 +182,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [0319-bulb-switcher](https://github.com/vararuunn/LeetCode-Solutions/tree/master/0319-bulb-switcher) |
 | [2396-strictly-palindromic-number](https://github.com/vararuunn/LeetCode-Solutions/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
