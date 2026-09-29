@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/vararuunn/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/vararuunn/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/vararuunn/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/vararuunn/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0812-largest-triangle-area](https://github.com/vararuunn/LeetCode-Solutions/tree/master/0812-largest-triangle-area) |
 | [0875-koko-eating-bananas](https://github.com/vararuunn/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/vararuunn/LeetCode-Solutions/tree/master/0877-stone-game) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/vararuunn/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/vararuunn/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/vararuunn/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/vararuunn/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/vararuunn/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/vararuunn/LeetCode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/vararuunn/LeetCode-Solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
