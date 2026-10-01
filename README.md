@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/vararuunn/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/vararuunn/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/vararuunn/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
+| [0709-to-lower-case](https://github.com/vararuunn/LeetCode-Solutions/tree/master/0709-to-lower-case) |
 ## Dynamic Programming
 |  |
 | ------- |
