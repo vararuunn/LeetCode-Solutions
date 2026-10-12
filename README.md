@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/vararuunn/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1266-minimum-time-visiting-all-points](https://github.com/vararuunn/LeetCode-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/vararuunn/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/vararuunn/LeetCode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1688-count-of-matches-in-tournament](https://github.com/vararuunn/LeetCode-Solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [2235-add-two-integers](https://github.com/vararuunn/LeetCode-Solutions/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/vararuunn/LeetCode-Solutions/tree/master/2396-strictly-palindromic-number) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/vararuunn/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/vararuunn/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/vararuunn/LeetCode-Solutions/tree/master/0371-sum-of-two-integers) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/vararuunn/LeetCode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Hash Table
 |  |
 | ------- |
