@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1901-find-a-peak-element-ii](https://github.com/vararuunn/LeetCode-Solutions/tree/master/1901-find-a-peak-element-ii) |
 | [1929-concatenation-of-array](https://github.com/vararuunn/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/vararuunn/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2798-number-of-employees-who-met-the-target](https://github.com/vararuunn/LeetCode-Solutions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/vararuunn/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/vararuunn/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
