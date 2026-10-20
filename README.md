@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/vararuunn/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/vararuunn/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/vararuunn/LeetCode-Solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
+| [1768-merge-strings-alternately](https://github.com/vararuunn/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/vararuunn/LeetCode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2396-strictly-palindromic-number](https://github.com/vararuunn/LeetCode-Solutions/tree/master/2396-strictly-palindromic-number) |
 ## Sorting
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/vararuunn/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/vararuunn/LeetCode-Solutions/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/vararuunn/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
+| [1768-merge-strings-alternately](https://github.com/vararuunn/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
 | [1859-sorting-the-sentence](https://github.com/vararuunn/LeetCode-Solutions/tree/master/1859-sorting-the-sentence) |
 ## Dynamic Programming
 |  |
